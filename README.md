@@ -1,5 +1,5 @@
 # ml
 
-To download pdf: https://github.com/realabhay/ml/raw/main/PCA.pdf
+To download pdf: curl -O https://github.com/realabhay/ml/raw/main/PCA.pdf
 
-To download any other type of fiile: https://raw.githubusercontent.com/realabhay/ml/main/fitting.ipynb
+To download any other type of file: curl https://raw.githubusercontent.com/realabhay/ml/main/fitting.ipynb
